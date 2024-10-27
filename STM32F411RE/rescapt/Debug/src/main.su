@@ -1,0 +1,9 @@
+/home/e2023/a3hmidan/Bureau/WORKSPACE_RESCAPT_STM32CUBEIDE/rescapt/CMSIS/core/core_cm3.h:1524:22:NVIC_SetPriority	16	static
+/home/e2023/a3hmidan/Bureau/WORKSPACE_RESCAPT_STM32CUBEIDE/rescapt/CMSIS/core/core_cm3.h:1616:22:NVIC_SystemReset	4	static,ignoring_inline_asm
+/home/e2023/a3hmidan/Bureau/WORKSPACE_RESCAPT_STM32CUBEIDE/rescapt/CMSIS/core/core_cm3.h:1656:26:SysTick_Config	16	static
+../src/main.c:68:5:main	8	static
+../src/main.c:178:6:rangeLuxTempHum_callback	16	static
+../src/main.c:302:6:HAL_TIM_PeriodElapsedCallback	16	static
+../src/main.c:309:6:can_callback	24	static
+../src/main.c:347:6:VL6180x_Init	16	static
+../src/main.c:376:6:VL6180x_Step	8	static
