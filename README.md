@@ -1,6 +1,6 @@
 # RéseauCapteurs_BusCan
 
-![Project Overview](./path/to/your/image.png)
+![Project Overview](./Demo.jpg)
 
 Ce projet consiste à collecter les informations de divers capteurs sur le terrain et à les transmettre au PC Host via un bus CAN. Différentes cartes microcontrôleurs ST-Nucleo sont utilisées pour recueillir les données des capteurs qui mesurent des paramètres environnementaux tels que la vitesse du vent, la luminosité, la distance, la pression, l’humidité, l’accélération et la rotation. Ces données sont centralisées et envoyées au PC pour une analyse en temps réel.
 
@@ -24,4 +24,4 @@ Le projet est structuré en trois cartes microcontrôleurs ST-Nucleo qui communi
 
 1. Cloner ce repository :
    ```bash
-   git clone https://github.com/yourusername/RéseauCapteurs_BusCan.git
+   git clone https://github.com/HaytamBenz5/RéseauCapteurs_BusCan.git
